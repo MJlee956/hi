@@ -1,0 +1,11 @@
+Model Information:
+* title:	Desk chair
+* source:	https://sketchfab.com/3d-models/desk-chair-869f53e777524f1289bfe6eefbc88fad
+* author:	leonvdberg (https://sketchfab.com/leonvdberg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Desk chair" (https://sketchfab.com/3d-models/desk-chair-869f53e777524f1289bfe6eefbc88fad) by leonvdberg (https://sketchfab.com/leonvdberg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
