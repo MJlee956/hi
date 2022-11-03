@@ -1,0 +1,11 @@
+Model Information:
+* title:	Metal vent
+* source:	https://sketchfab.com/3d-models/metal-vent-2f23e7a094b84f12bfc9f5e93877fbaf
+* author:	Luke.G (https://sketchfab.com/LukeCG)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Metal vent" (https://sketchfab.com/3d-models/metal-vent-2f23e7a094b84f12bfc9f5e93877fbaf) by Luke.G (https://sketchfab.com/LukeCG) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
